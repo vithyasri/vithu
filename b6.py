@@ -1,0 +1,2 @@
+vithya=input()
+print(vithya)
